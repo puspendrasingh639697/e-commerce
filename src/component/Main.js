@@ -17,7 +17,7 @@ function Main() {
 
   return (
     <div>
-      {/* <div id='google_translate_element'></div> */}
+      <div id='google_translate_element'></div>
     
     </div>
   );
